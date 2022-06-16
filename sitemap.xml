@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://krypton.ninja/2022/03/28/Insomnihack-2022-CTF-write-up/</loc>
+    
+    <lastmod>2022-06-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://krypton.ninja/about/index.html</loc>
     
     <lastmod>2022-05-11</lastmod>
@@ -23,15 +32,6 @@
     <loc>https://krypton.ninja/supporters/index.html</loc>
     
     <lastmod>2022-04-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://krypton.ninja/2022/03/28/Insomnihack-2022-CTF-write-up/</loc>
-    
-    <lastmod>2022-04-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
