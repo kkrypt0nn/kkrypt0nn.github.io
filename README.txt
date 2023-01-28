@@ -1,0 +1,1 @@
+Comments for my website available at https://krypton.ninja
